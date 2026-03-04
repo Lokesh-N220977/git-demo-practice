@@ -1,1 +1,2 @@
 Second file
+no fast forward merge example
