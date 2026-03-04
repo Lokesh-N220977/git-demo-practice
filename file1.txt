@@ -1,1 +1,5 @@
 First file
+new line added
+new content for add command
+patch change example
+commit test line
